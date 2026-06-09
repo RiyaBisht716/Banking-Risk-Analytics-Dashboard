@@ -142,7 +142,7 @@ Built interactive Power BI dashboards for:
 
 ## Author
 
-Your Name
+Riya Bisht
 
 ## License
 
